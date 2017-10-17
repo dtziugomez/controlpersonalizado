@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\controlpersonalizado.Resources.resources
+obj\Debug\controlpersonalizado.ColorMixer.resources
+obj\Debug\controlpersonalizado.vbproj.GenerateResource.Cache
+bin\Debug\controlpersonalizado.dll
+bin\Debug\controlpersonalizado.pdb
+bin\Debug\controlpersonalizado.xml
+obj\Debug\controlpersonalizado.dll
+obj\Debug\controlpersonalizado.xml
+obj\Debug\controlpersonalizado.pdb

@@ -1,0 +1,9 @@
+F:\2\ej.progra-visual-deyvi\controlpersonalizado\controlpersonalizado\bin\Debug\controlpersonalizado.dll
+F:\2\ej.progra-visual-deyvi\controlpersonalizado\controlpersonalizado\bin\Debug\controlpersonalizado.pdb
+F:\2\ej.progra-visual-deyvi\controlpersonalizado\controlpersonalizado\bin\Debug\controlpersonalizado.xml
+F:\2\ej.progra-visual-deyvi\controlpersonalizado\controlpersonalizado\obj\Debug\controlpersonalizado.Resources.resources
+F:\2\ej.progra-visual-deyvi\controlpersonalizado\controlpersonalizado\obj\Debug\controlpersonalizado.ColorMixer.resources
+F:\2\ej.progra-visual-deyvi\controlpersonalizado\controlpersonalizado\obj\Debug\controlpersonalizado.vbproj.GenerateResource.Cache
+F:\2\ej.progra-visual-deyvi\controlpersonalizado\controlpersonalizado\obj\Debug\controlpersonalizado.dll
+F:\2\ej.progra-visual-deyvi\controlpersonalizado\controlpersonalizado\obj\Debug\controlpersonalizado.xml
+F:\2\ej.progra-visual-deyvi\controlpersonalizado\controlpersonalizado\obj\Debug\controlpersonalizado.pdb
